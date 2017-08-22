@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Activity的Layout -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg2"
+    android:orientation="horizontal"
+    android:padding="10dip" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/setting_txt_title"
+            android:textColor="@color/blue"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/setting_txt_font_color"
+            android:textColor="@color/blue" />
+
+        <Spinner
+            android:id="@+id/setting_spinner_font_color"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+        <!--
+		<TextView
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="@string/setting_txt_bg_color"
+		    android:textColor="@color/blue" />
+		
+		<Spinner android:id="@+id/setting_spinner_bg_color" 
+			android:layout_height="wrap_content" 
+			android:layout_width="fill_parent" /> 			
+        -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/setting_txt_font_size"
+            android:textColor="@color/blue" />
+
+        <SeekBar
+            android:id="@+id/setting_seekbar_font_size"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:max="10"
+            android:progress="5"
+            android:secondaryProgress="10" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/setting_txt_scr_brightness"
+            android:textColor="@color/blue" />
+
+        <SeekBar
+            android:id="@+id/setting_seekbar_scr_brightness"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:max="10"
+            android:progress="10"
+            android:secondaryProgress="10" />
+
+        <TextView
+            android:id="@+id/setting_textview_setting_prev"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="10dip"
+            android:scrollbars="vertical"
+            android:singleLine="false"
+            android:text="@string/setting_txt_setting_prev" />
+    </LinearLayout>
+
+</LinearLayout>

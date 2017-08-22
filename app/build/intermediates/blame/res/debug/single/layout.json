@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/layout/readbook.xml",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/layout/readbook.xml"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/layout/addbookmarkdlg.xml",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/layout/addbookmarkdlg.xml"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/layout/setting.xml",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/layout/setting.xml"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/layout/openpassay.xml",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/layout/openpassay.xml"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/layout/filelist.xml",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/layout/filelist.xml"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/layout/openfile.xml",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/layout/openfile.xml"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/layout/bookmark.xml",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/layout/bookmark.xml"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/layout/version.xml",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/layout/version.xml"
+    }
+]

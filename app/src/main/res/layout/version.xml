@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg2"
+    android:orientation="vertical"
+    android:padding="18pt" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="5pt"
+        android:gravity="center"
+        android:text=" " />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/version_txt_title"
+        android:textColor="#212121"
+        android:textSize="9pt" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="fill_parent"
+        android:layout_height="15pt"
+        android:text=" "
+        android:textColor="#212121" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/version_txt_first"
+        android:textColor="#212121" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/version_txt_third"
+        android:textColor="#212121"
+        android:textSize="7pt" />
+
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="20pt"
+        android:text=" "
+        android:textColor="#212121" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="20pt"
+        android:text=" "
+        android:textColor="#212121" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="20pt"
+        android:text=" "
+        android:textColor="#212121" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/version_txt_fourth"
+        android:textColor="#212121" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/version_txt_fifth"
+        android:textColor="#212121" />
+
+</LinearLayout>

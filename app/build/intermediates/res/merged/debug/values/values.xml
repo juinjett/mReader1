@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#ff000000</color>
+    <color name="blue">#ff0000E3</color>
+    <color name="default_background_color">#ff000000</color>
+    <color name="green">#ff007500</color>
+    <color name="red">#ffCE0000</color>
+    <color name="yellow">#ffFFD306</color>
+    <string name="app_name">mReader</string>
+    <string name="bookmark_btn_add">Add Bookmark</string>
+    <string name="bookmark_btn_clear">Remove Bookmark</string>
+    <string name="bookmark_btn_go">Go To Bookmark</string>
+    <string name="bookmark_txt_title">Bookmark Manager</string>
+    <string name="hello">mReader</string>
+    <string name="main_btn_exit">Exit</string>
+    <string name="main_btn_open">Open</string>
+    <string name="main_btn_setting">Setting</string>
+    <string name="main_txt_title">mReader</string>
+    <string name="setting_txt_bg_color">Background Color</string>
+    <string name="setting_txt_font_color">Font Color</string>
+    <string name="setting_txt_font_size">Font Size</string>
+    <string name="setting_txt_scr_brightness">Screen Brightness</string>
+    <string name="setting_txt_setting_prev">A testing message.</string>
+    <string name="setting_txt_title">User Setting</string>
+    <string name="version_txt_fifth">ALL rights reserved</string>
+    <string name="version_txt_first">Author: Junjie Ouyang</string>
+    <string name="version_txt_fourth">©Copyright 2017 Junjie Ouyang</string>
+    <string name="version_txt_second"/>
+    <string name="version_txt_third">Version 1.0</string>
+    <string name="version_txt_title">About mReader</string>
+</resources>

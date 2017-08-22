@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/drawable/rightpage.png",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/drawable/rightpage.png"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/drawable/reader.png",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/drawable/reader.png"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/drawable/exit.png",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/drawable/exit.png"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/drawable/bg2.bmp",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/drawable/bg2.bmp"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/drawable/jiutianzhishang.jpg",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/drawable/jiutianzhishang.jpg"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/drawable/leftpage.png",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/drawable/leftpage.png"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/drawable/autorun.png",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/drawable/autorun.png"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/drawable/open.png",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/drawable/open.png"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/drawable/bg.jpg",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/drawable/bg.jpg"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/drawable/setting.png",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/drawable/setting.png"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/drawable/chapterback.jpg",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/drawable/chapterback.jpg"
+    }
+]

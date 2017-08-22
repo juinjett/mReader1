@@ -1,0 +1,7 @@
+#Tue Aug 22 16:01:55 EDT 2017
+base.0=/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e773cac35bf19bfe15ca0359309118b925683fb7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dbcf93e99ee314953e06a195d24c081efd240663/classes.dex
+base.1=/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dbcf93e99ee314953e06a195d24c081efd240663
+file.0=/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e773cac35bf19bfe15ca0359309118b925683fb7/classes.dex

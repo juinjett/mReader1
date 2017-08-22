@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/anim/openfile.xml",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/anim/openfile.xml"
+    },
+    {
+        "merged": "/Users/David/AndroidStudioProjects/mReader1/app/build/intermediates/res/merged/debug/anim/anim.xml",
+        "source": "/Users/David/AndroidStudioProjects/mReader1/app/src/main/res/anim/anim.xml"
+    }
+]
